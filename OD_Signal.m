@@ -23,4 +23,6 @@ sig=CalculateModPhase(tOut,in,out,sineA,sinef,ind_start,ind_end);
 % This is added in GitHib
 % Add this 2nd line in RGH
 % add this line in main branch after rebasecommit
+% add this line in rebasebranch
+
 end
