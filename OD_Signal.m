@@ -21,4 +21,5 @@ sig=CalculateModPhase(tOut,in,out,sineA,sinef,ind_start,ind_end);
 [WSD_mag,WSD_phase,sig]=Calculate_WSD(sinef,sig);
 
 % This is added in GitHib
+% Add this 2nd line in RGH
 end
